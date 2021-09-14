@@ -11,7 +11,7 @@ output:
 rmarkdown::site_generator()
 ```
  
-<img src="prof_pic.jpg" style=width:40% class="img-circle">
+<img src="prof_pic.jpeg" style=width:40% class="img-circle">
 
 <br>
 
