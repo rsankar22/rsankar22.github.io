@@ -1,0 +1,16 @@
+name: "Revath Sankar"
+navbar:
+  title: "My Personal Site"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<rsankar23@utexas.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/rsankar22
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/revath-sankar/
+      

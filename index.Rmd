@@ -1,12 +1,30 @@
 ---
-title: "Lab_3_Test"
-author: "Revath Sankar"
-date: "9/14/2021"
-output: html_document
+title: ' '
+pagetitle: 'Revath Sankar'
+output: 
+  html_document: 
+    css: "styles.css"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
 ```
+ 
+<img src="prof_pic.jpg" style=width:40% class="img-circle">
 
-## Placeholder for website
+<br>
+
+# Welcome! I am Revath. 
+  
+</br>
+
+##### I am a senior biomedical engineering major at UT Austin.
+
+##### I enjoy football and rock climbing. 
+
+##### I am interested in learning more about data science and one dat becoming a data scientist.  
+
+##### I don't have any data-related projects either, but if I did you could find them [here](/portfolio)!
+
+---
