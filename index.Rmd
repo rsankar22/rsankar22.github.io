@@ -25,6 +25,6 @@ rmarkdown::site_generator()
 
 ##### I am interested in learning more about data science and one dat becoming a data scientist.  
 
-##### I don't have any data-related projects either, but if I did you could find them [here](/portfolio)!
+##### I don't have any data-related projects either, but if I did you could find them [here](portfolio.html)!
 
 ---

@@ -17,8 +17,10 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 - <i class="fa fa-chart-line"> </i> [Project 1: Predictive Maintenance for Machine Failure](https://github.com/RileyYlagan/PredictiveMaintenanceProject)
 
-    - Longer Description
-    <iframe src="https://www.kaggle.com/embed/revathsankar/predictive-machine-failure?kernelSessionId=82048652" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Predictive Machine Failure"></iframe>
+    - The problem we are trying to solve is understanding when a machine will fail given that machine's current conditions. To do this we are creating a machine learning model which will help us classify if the machine will fail, and if so, specially which of the 5 different failure types caused it. 
+
+
+<iframe src="https://www.kaggle.com/embed/revathsankar/predictive-machine-failure?kernelSessionId=82048652" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Predictive Machine Failure"></iframe>
 
 <br>
 
