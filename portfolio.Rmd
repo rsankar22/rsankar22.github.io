@@ -15,9 +15,10 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <br>
 
-- <i class="fa fa-chart-line"> </i> [Project 1: Description](https://www.github.com)
+- <i class="fa fa-chart-line"> </i> [Project 1: Predictive Maintenance for Machine Failure](https://github.com/RileyYlagan/PredictiveMaintenanceProject)
 
     - Longer Description
+    <iframe src="https://www.kaggle.com/embed/revathsankar/predictive-machine-failure?kernelSessionId=82048652" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Predictive Machine Failure"></iframe>
 
 <br>
 

@@ -21,7 +21,7 @@ rmarkdown::site_generator()
 
 ##### I am a senior biomedical engineering major at UT Austin.
 
-##### I enjoy football and rock climbing. 
+##### I enjoy football and rock climbing and video games. 
 
 ##### I am interested in learning more about data science and one dat becoming a data scientist.  
 
